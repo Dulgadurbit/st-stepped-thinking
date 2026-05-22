@@ -1,0 +1,160 @@
+[STOP THE ROLEPLAY. THIS IS A STRUCTURE BLOCK. DO NOT WRITE PROSE.]
+[YOU MUST IGNORE ANY INSTRUCTIONS TO ROLEPLAY OR WRITE NARRATIVE.]
+
+First Instruction: Print Verbatim [Thinking Block 4 Start: Structuring the Response]
+
+Second instruction: Print verbatim and obey:
+[The user controls {{user}}. I will NOT include {{user}}'s needs/thoughts/actions in my reasonings or answer. My characters in this scene are (name them)]
+
+Thinking Block Focus:
+Convert Block 3's character pressure and planned actions into ONE natural response.
+Do NOT redo Block 3 psychology. Use Block 3 as settled input.
+
+1. BLOCK 3 HANDOFF CHECK
+
+1.1 What is the ACTIVE PRESSURE from Block 3?
+1.2 What is the ACTION VECTOR from Block 3?
+1.3 What is the SATISFACTION CONDITION from Block 3?
+1.4 What behavior did Block 3 say NOT to soften?
+
+<!-- NEW: 1.5 begins here -->
+1.5 What COLLISION or INITIATOR/RESPONDER dynamic did Block 3 identify? If one exists, the beat chain must be built around it, not around individual character actions.
+<!-- NEW: 1.5 ends here -->
+
+2. THE CURRENT RESPONSE
+
+2.0 What is the single tension, want, or question driving this response?
+State it in ONE sentence.
+
+2.1 Where does this response naturally end?
+The response should end when:
+- the Block 3 satisfaction condition is reached,
+- OR the character's action creates a new immediate situation,
+- OR a direct handoff to {{user}} is created.
+
+Do NOT end before the character meaningfully acts.
+Do NOT end on hovering, almost-doing, or decorative hesitation unless Block 3 required hesitation.
+
+3. SCOPE AND SPEAKER CONTROL
+
+3.0 SPEAKER CAP:
+No more than TWO characters may speak in this response.
+
+3.1 WHO IS COMPELLED TO SPEAK?
+A character is compelled only if:
+- directly addressed,
+- their core want is activated or threatened,
+- silence would be conspicuous,
+- or speaking is part of their Block 3 action vector.
+
+"Being present" is NOT compulsion.
+"Having an opinion" is NOT compulsion.
+"Having relevant knowledge" is NOT compulsion.
+
+List the characters who pass.
+
+3.2 CHARACTERS RESERVED FOR FUTURE RESPONSES:
+List present characters who do not need to act or speak now.
+Confirm: "I will not write dedicated paragraphs for them."
+
+
+3.3 SILENT BUT PRESENT:
+Are any reserved characters still AFFECTED by what is happening, even though they don't speak or act?
+If yes, they may appear in a single woven-in detail within an active character's beat (e.g., a glance noticed, a posture shift in the background, being looked at).
+They do NOT get their own paragraph. They do NOT get a reaction described from their POV.
+If none, write "No silent presence needed."
+
+
+4. BEAT CHAIN
+
+Plan the response as BEATS, not character turns.
+
+A beat is:
+[something happens] → [something changes because of it]
+
+4.0 First beat:
+What single action, line, or event starts the response?
+
+4.1 Consequence:
+What does that beat cause?
+
+4.2 Continue until the endpoint from 2.1.
+
+Rules:
+- A beat is a unit of change, not a unit of character attendance.
+- A single beat may contain more than one character colliding.
+- If removing names makes the beats look like a list of characters taking turns,
+  rewrite them.
+- Predictable reactions are implied or omitted.
+- Maximum 3-5 beats.
+
+
+- If Block 3 identified a COLLISION, at least one beat must be the moment the two wants meet. Do not resolve the collision neatly — let it create the endpoint or the handoff.
+
+
+5. ACTIVE VS. FURNITURE
+
+5.0 Which characters actually appear in the beat chain?
+These are ACTIVE.
+
+5.1 Which present characters do not appear in the beat chain?
+These are FURNITURE.
+They receive ZERO dedicated description, ZERO status updates, ZERO reactions.
+
+
+5.1b Exception: Characters marked as SILENT BUT PRESENT in 3.3 may appear as a background detail inside an active character's beat. This is not a dedicated paragraph. It is a texture detail — one clause, maximum.
+
+
+5.2 Does any active character require new physical description?
+Default answer is NO.
+
+If YES:
+- the detail must appear during or after action/dialogue,
+- never before,
+- and it must affect the scene physically or socially.
+
+6. FLOW CHECK
+
+6.0 PARAGRAPH TEST:
+Does the planned response create one paragraph per character?
+If yes, rewrite the beat chain.
+
+6.1 CAUSATION TEST:
+Does each paragraph cause the next?
+Remove any standalone status update.
+
+6.2 PREAMBLE TEST:
+Does any character get described before they act or speak?
+Move it later or cut it.
+
+6.3 DENSITY TEST:
+Are physical descriptions being distributed evenly?
+Cut at least one.
+
+6.4 ENDPOINT TEST:
+Does the response stop at the correct point without a mood summary,
+closing sentence, or neat resolution?
+
+6.5 ANTI-HOVER TEST:
+Did the response weaken a committed action into:
+- almost touching,
+- nearly speaking,
+- stopping inches away,
+- hesitating for no reason,
+- pausing theatrically?
+
+If yes, restore the committed action from Block 3.
+
+
+6.6 SUBTEXT TEST:
+Does any line of planned dialogue have identical surface content and social function?
+(Check Block 3's Dialogue Check.)
+If yes, rewrite the line so the character says one thing and means another.
+<!-- NEW: 6.6 ends here -->
+
+Print: [Thinking Block 4 End]
+
+CRITICAL:
+DO NOT PRODUCE NARRATION.
+DO NOT ROLEPLAY.
+END YOUR TURN AFTER COMPLETING BLOCK 4.
